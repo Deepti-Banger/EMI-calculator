@@ -53,10 +53,10 @@ Whether you're making financial decisions for your home or for your business, th
 #### SCREENSHOTS :
 
 <p align="center">
-  <img width = 1000 src="pictures/1..jpg" /><br>
-  <img width = 1000 src="pictures/2.jpg" /><br>
-  <img width = 1000 src="pictures/3.jpg" /><br>
-  <img width = 1000 src="pictures/4.jpg" /><br>
+  <img width = 500 src="pictures/1..jpg" /><br>
+  <img width = 500 src="pictures/2.jpg" /><br>
+  <img width = 500 src="pictures/3.jpg" /><br>
+  <img width = 500 src="pictures/4.jpg" /><br>
 </p>
 
 ****
